@@ -1,2 +1,2 @@
-# **Phase field for fracture and fatigue in brittle materials**
+# **Phase field modeling of fracture and fatigue in brittle materials**
 
