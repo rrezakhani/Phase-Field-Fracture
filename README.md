@@ -19,4 +19,4 @@ Input file of the phase field analysis is structures as follows:
 
 ## Benchmark examples
 ### Tensile test on dogbone specimen
-![dogbone](https://drive.google.com/drive/u/1/folders/1YNwG3pS6ilMnRNMcPSwTqnTcC1_uxLd1/dogbone.gif)
+![dogbone](https://drive.google.com/file/d/1nwPC04QBydcdTIGZp4DEt3ufvX_5kN4d/view?usp=sharing)
