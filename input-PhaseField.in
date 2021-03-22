@@ -1,0 +1,24 @@
+# problem dimensions
+dim = 2
+two_dimensional_problem_type = plane_stress
+
+# material properties
+E = 210000
+nu = 0.3
+Gc = 2.7
+el = 0.05
+
+# boundary conditions
+# format: [value (space) direction (space) gmsh_physcial_surface_name]
+Dirichlet_BC = [0.01 1 'right']
+Dirichlet_BC = [0.0 1 'left']
+Dirichlet_BC = [0.0 2 'bottom']
+
+# mesh file
+mesh_path = ./mesh-files/dogbone-coarse-quad.msh
+
+# specify analysis type
+analysis_type = static
+solver = Newton-Raphson
+
+
