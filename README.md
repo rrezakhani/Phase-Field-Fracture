@@ -1,1 +1,2 @@
-# Phase-Field-Fracture
+# **Phase field for fracture and fatigue in brittle materials
+
