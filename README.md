@@ -19,4 +19,4 @@ Input file of the phase field analysis is structures as follows:
 
 ## Benchmark examples
 ### Tensile test on dogbone specimen
-<img src="https://github.com/rrezakhani/Phase-Field-Fracture/blob/main/examples/dogbone-quad/dogbone.gif" width="500"> <img src="https://github.com/rrezakhani/Phase-Field-Fracture/blob/main/examples/dogbone-quad/force-disp.gif" width="300">
+<img src="https://github.com/rrezakhani/Phase-Field-Fracture/blob/main/examples/dogbone-quad/dogbone.gif" width="450"> <img src="https://github.com/rrezakhani/Phase-Field-Fracture/blob/main/examples/dogbone-quad/force-disp.gif" width="350">
